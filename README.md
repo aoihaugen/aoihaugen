@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 My name is Andreas 😊
+#### - I am currently a Computer Science student at Western Norway University of Applied Sciences.
+#### - I will post any interesting project I have.
+#### - Do not hesitate to contact me if you have any questions or recommendations regarding any of my repositories.
 
 <!--
 **aoihaugen/aoihaugen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
